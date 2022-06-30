@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T11:59:51.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="AcFp1TliU-VrsTbEfNhw" type="github"><diagram id="T_B1kXxmSV5LtMjLfTNQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-30T12:09:54.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gDXgyzfXXG6qU19CqHRn" version="20.0.3" type="github">
+  <diagram id="T_B1kXxmSV5LtMjLfTNQ" name="第 1 页">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="QcFP2enXbgd0NS3Jdks6-1" target="QcFP2enXbgd0NS3Jdks6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="QcFP2enXbgd0NS3Jdks6-1" target="QcFP2enXbgd0NS3Jdks6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="QcFP2enXbgd0NS3Jdks6-2" target="QcFP2enXbgd0NS3Jdks6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="QcFP2enXbgd0NS3Jdks6-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-2" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-3" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="341" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;黑客&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="90" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;正常用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="179" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279" y="389.70925110132157" as="sourcePoint" />
+            <mxPoint x="570" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1.发送带有XSS脚本的恶意链接&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;恶意服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;正常服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="541.5" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5.黑客从恶意服务器获知用户信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;2.用户点击链接访问服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3.服务器将带有XSS的网页返回给用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="404" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcFP2enXbgd0NS3Jdks6-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4.用户浏览器执行恶意代码访问恶意服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="400" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
